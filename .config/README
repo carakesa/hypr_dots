@@ -2,5 +2,22 @@
 Taken from mylinuxforwork 'ml4w'  
 https://github.com/mylinuxforwork, Licensed by the GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
 
+## File Paths
+dotfiles-folder expects ~/hypr_dots
+wallpapers in ~/Pictures/Wallpaper
+
+## Custom Keybindings 
+
+Super+Space for launcher
+Super+W for Rofi window (app switcher)
+Super+P for Power Menu
+
+## Software Prefeences 
+- Fish
+- Wezterm
+- neovim
+
+### Neovim Note:
+Was using Lunarvim, but no longer.  Some configs may still reference Lunarvim (or as 'lvim') and need adjusted.  Likely switching to [Lazyvim](https://github.com/LazyVim/LazyVim)
 
 
