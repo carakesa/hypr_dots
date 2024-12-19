@@ -9,7 +9,7 @@
 sec=$(cat ~/.config/ml4w/settings/wallpaper-automation.sh)
 _setWallpaperRandomly() {
     waypaper --random
-    echo ":: Next wallpaper in 60 seconds..."
+    echo ":: Next wallpaper in 10 minutes..."
     sleep $sec
     _setWallpaperRandomly
 }
