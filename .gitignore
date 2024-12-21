@@ -2,3 +2,4 @@
 .config/ml4w/settings/*
 .config/waybar/themes/*
 .config/waypaper/*
+cache/
