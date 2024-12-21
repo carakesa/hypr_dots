@@ -1,1 +1,4 @@
-ml4w/cache/*
+.config/ml4w/cache/*
+.config/ml4w/settings/*
+.config/waybar/themes/*
+.config/waypaper/*
