@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 ml4w/cache/*
 ml4w/settings/*
 waybar/themes/ml4w*
-=======
 .config/ml4w/cache/*
 .config/ml4w/settings/*
 .config/waybar/themes/*
 .config/waypaper/*
 cache/
->>>>>>> e2746b7bf9c5e5fc4efa4eaa5f40be71cea9734c
