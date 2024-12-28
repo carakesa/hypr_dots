@@ -6,4 +6,4 @@ cache/
 .config/ags/*
 .config/hypr/scripts/*
 .config/ml4w/*
-
+.config/rofi/* 
