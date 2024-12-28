@@ -3,3 +3,7 @@
 .config/waybar/themes/*
 .config/waypaper/*
 cache/
+.config/ags/*
+.config/hypr/scripts/*
+.config/ml4w/*
+
