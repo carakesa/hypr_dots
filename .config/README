@@ -1,23 +1,27 @@
-
-Taken from mylinuxforwork 'ml4w'  
-https://github.com/mylinuxforwork, Licensed by the GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
-
-## File Paths
-dotfiles-folder expects ~/hypr_dots
-wallpapers in ~/Pictures/Wallpaper
-
-## Custom Keybindings 
-
-Super+Space for launcher
-Super+W for Rofi window (app switcher)
-Super+P for Power Menu
-
-## Software Prefeences 
-- Fish
-- Wezterm
-- neovim
-
-### Neovim Note:
-Was using Lunarvim, but no longer.  Some configs may still reference Lunarvim (or as 'lvim') and need adjusted.  Likely switching to [Lazyvim](https://github.com/LazyVim/LazyVim)
-
-
+Taken from mylinuxforwork 'ml4w'
+   3   │ https://github.com/mylinuxforwork, Licensed by the GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
+   4   │
+   5   │ ## dev0 Branch
+   6   │ - ignore ml4w files from local config, only track custom configs
+   7   │
+   8   │
+   9   │ ## File Paths
+  10   │ dotfiles-folder expects ~/hypr_dots
+  11   │ wallpapers in ~/Pictures/Wallpaper
+  12   │
+  13   │ ## Custom Keybindings
+  14   │
+  15   │ Super+Space for launcher
+  16   │ Super+W for Rofi window (app switcher)
+  17   │ Super+P for Power Menu
+  18   │
+  19   │ ## Software Prefeences
+  20   │ - Fish
+  21   │ - Wezterm
+  22   │ - neovim
+  23   │
+  24   │ ### Neovim Note:
+  25   │ Was using Lunarvim, but no longer.  Some configs may still reference Lunarvim (or as 'lvim') and need adjusted.  Likely switchin
+       │ g to [Lazyvim](https://github.com/LazyVim/LazyVim)
+  26   │
+  27   │
